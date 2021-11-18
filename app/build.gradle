@@ -1,3 +1,5 @@
+//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 github personal token
+
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
